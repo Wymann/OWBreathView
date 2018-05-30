@@ -41,5 +41,5 @@ README
 
 ### 效果图
 -----------
-![image](http://github.com/itmyhome2013/readme_add_pic/raw/master/images/nongshalie.jpg)
+![image](https://github.com/Wymann/OWBreathView/blob/master/效果图/xiaoguo.gif)
 -----------
